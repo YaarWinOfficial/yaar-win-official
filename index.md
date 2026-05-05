@@ -4,9 +4,21 @@
 
 # Welcome to Yaarwin — India's #1 Online Gaming Platform 🎮🏆
 
-Are you ready to experience the thrill of online gaming like never before? Yaarwin is India's fastest-growing gaming platform, built specifically for Indian players who love speed, excitement, and the chance to win big — all from the comfort of their smartphone.
+Are you ready to experience the thrill of online gaming like never before? Yaarwin is India's fastest-growing gaming platform, built specifically for Indian players who love speed, excitement, and the chance to win big all from the comfort of their smartphone.
 
 Whether you are a complete beginner or a seasoned player, Yaarwin welcomes everyone with open arms. With a simple registration process, instant deposits, and a wide variety of games to choose from, getting started on Yaarwin takes less than two minutes.
+
+<p align="center">
+  <a href="https://your-official-website-link.com">
+    <img src="https://img.shields.io/badge/Official_Website-Open_Now-brightgreen?style=for-the-badge" alt="Official Website">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://your-invite-link-here.com">
+    <img src="https://img.shields.io/badge/Register_With_Invite_Code-Join_Now-blue?style=for-the-badge" alt="Register With Invite Code">
+  </a>
+</p>
 
 ## Latest Blog Posts
 
