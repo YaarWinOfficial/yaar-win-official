@@ -9,13 +9,13 @@ Are you ready to experience the thrill of online gaming like never before? Yaarw
 Whether you are a complete beginner or a seasoned player, Yaarwin welcomes everyone with open arms. With a simple registration process, instant deposits, and a wide variety of games to choose from, getting started on Yaarwin takes less than two minutes.
 
 <p align="center">
-  <a href="https://your-official-website-link.com">
+  <a href="[https://your-official-website-link.com](https://yaar-wins.com/)">
     <img src="https://img.shields.io/badge/Official_Website-Open_Now-brightgreen?style=for-the-badge" alt="Official Website">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://your-invite-link-here.com">
+  <a href="[https://your-invite-link-here.com](https://4yaarwin.com/#/register?invitationCode=18845107772)">
     <img src="https://img.shields.io/badge/Register_With_Invite_Code-Join_Now-blue?style=for-the-badge" alt="Register With Invite Code">
   </a>
 </p>
